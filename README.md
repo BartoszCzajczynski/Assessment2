@@ -1,7 +1,7 @@
 # Assessment2
 Specification
 --
-Name, Adress, date (strings)
+Name, Address, date (strings)
 
 Phone number
 
@@ -13,3 +13,11 @@ Store data in a file
 
 Able to change any and all details for contacts
 
+Design
+=
+Main
+-
+Manager
+-
+Contact
+-
